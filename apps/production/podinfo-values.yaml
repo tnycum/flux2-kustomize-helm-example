@@ -15,6 +15,6 @@ spec:
             - path: /
               pathType: ImplementationSpecific
     ui:
-      message: "Update to 6.7.1"
+      message: "Gabby is cool"
     image:
       tag: 6.7.1
