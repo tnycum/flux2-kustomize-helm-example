@@ -15,6 +15,12 @@ spec:
   install:
     remediation:
       retries: 3
+  driftDetection:
+    mode: enabled
+    ignore:
+      - paths: ["spec/replicas"]
+        target:
+          kind: Deployment
   # Default values
   # https://github.com/stefanprodan/podinfo/blob/master/charts/podinfo/values.yaml
   values:
