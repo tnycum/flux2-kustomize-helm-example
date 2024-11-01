@@ -37,6 +37,8 @@ Notable apps deployed into AKS include:
 
 ## Instructions
 
+Fork the [original git repository](https://github.com/fluxcd/flux2-kustomize-helm-example) into your own Github project. Then, [setup a classic Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic) with all of the permissions granted within the `repo` block.
+
 ```sh
 # Get AZ creds
 az login
