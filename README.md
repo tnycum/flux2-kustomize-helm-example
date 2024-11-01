@@ -14,7 +14,7 @@ upgrade the Helm releases to their latest chart version based on semver ranges.
 
 ## Runbook
 
-See the (Runbook)[Runbook.MD] for opinionated instructions on how to run this demo, including the Terraform to set up AKS clusters.
+See the [Runbook](Runbook.MD) for opinionated instructions on how to run this demo, including the Terraform to set up AKS clusters.
 
 ## Prerequisites
 
