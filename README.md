@@ -12,6 +12,10 @@ We will configure Flux to install, test and upgrade a demo app using
 Flux will monitor the Helm repository, and it will automatically
 upgrade the Helm releases to their latest chart version based on semver ranges.
 
+## Runbook
+
+See the (Runbook)[Runbook.MD] for opinionated instructions on how to run this demo, including the Terraform to set up AKS clusters.
+
 ## Prerequisites
 
 You will need a Kubernetes cluster version 1.28 or newer.
