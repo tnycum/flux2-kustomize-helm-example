@@ -15,6 +15,6 @@ spec:
             - path: /
               pathType: ImplementationSpecific
     ui:
-      message: "This is production"
+      message: "This is a new message"
     image:
-      tag: 6.7.1
+      tag: 6.7.0
